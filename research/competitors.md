@@ -136,7 +136,7 @@ are rough. Google Play was not sampled. Overall ratings on the German App Store:
 - **Heja** (US, 16 low). **Paying for calendar sync** is the top theme. Also pop-up and audio ads, and duplicate
   notifications for one post.
 - **Kadermanager** (DE). Almost every written review is from April–May 2024, when an iOS update left the app stuck
-  on its loading screen for weeks. Reviewers say support only suggested adding the website to the home screen.
+  on its loading screen for weeks. One reviewer says support only suggested adding the website to the home screen.
 
 ## 4. Copy / avoid for a simple first version
 
