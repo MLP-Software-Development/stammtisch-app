@@ -5,7 +5,7 @@ events, answer yes or no in one tap, get reminded in time, and keep the shared c
 place instead of scattered across a chat.
 
 **Status: concept phase.** Nothing is built yet. The product is being charted as a
-[wayfinder map](https://github.com/julian-bruening/stammtisch-app/issues?q=label%3Awayfinder%3Amap) on this repo's
+[wayfinder map](https://github.com/MLP-Software-Development/stammtisch-app/issues?q=label%3Awayfinder%3Amap) on this repo's
 issues: every open question is an issue, every decision is recorded on the issue that settled it.
 
 Planned path: concept (this map) → Figma → web app → iOS and Android apps.
