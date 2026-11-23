@@ -67,6 +67,19 @@ _Avoid_: Fixed event, mandatory event
 The optional maximum number of people, members and guests together, an event takes.
 _Avoid_: Limit, max attendees
 
+**Proposal**:
+Something the group could do, with or without a date, added by any member; it asks for no RSVP and sends no
+reminders until an admin promotes it to an event.
+_Avoid_: Idea, tip, suggestion
+
+**Interested**:
+A member's mark on a proposal that they would like to go; never counts as a Yes.
+_Avoid_: Like, vote, maybe
+
+**Draft**:
+An event only admins can see, not yet published, so nobody is notified about it.
+_Avoid_: Unpublished event, hidden event
+
 **Calendar feed**:
 A member's personal subscription link that puts their groups' events into their own calendar app.
 _Avoid_: Calendar sync, ICS export
@@ -95,4 +108,4 @@ _Avoid_: Attachment (for group documents), file, page
 
 **Feature request**:
 A wish for the product itself, sent by anyone, kept as a public issue without personal data.
-_Avoid_: Idea (an idea is about what the group does, not about the product)
+_Avoid_: Idea, proposal (a proposal is about what the group does, not about the product)
