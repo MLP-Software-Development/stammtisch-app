@@ -1,4 +1,4 @@
-Required Notice: Copyright julian-bruening (https://github.com/julian-bruening)
+Required Notice: Copyright julian-bruening
 
 # PolyForm Noncommercial License 1.0.0
 
